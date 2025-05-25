@@ -16,7 +16,6 @@ A secure and scalable payment gateway system that integrates with SSLCommerz for
 
 - Python 3.8+
 - PostgreSQL
-- Redis (for task queue)
 - SSLCommerz account
 - PayPal Developer account
 

@@ -15,7 +15,6 @@ setup(
         "python-multipart>=0.0.5",
         "python-dotenv>=0.19.0",
         "httpx>=0.19.0",
-        "redis>=3.5.0",
         "celery>=5.1.0",
         "alembic>=1.7.0",
     ],
